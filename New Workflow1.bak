@@ -1,0 +1,2443 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.1">
+  <Nodes>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="102" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>ACSDT5Y2020.B08006-Data.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="GEO_ID" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="NAME" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_001E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_001M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_002E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_002M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_003E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_003M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_004E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_004M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_005E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_005M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_006E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_006M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_007E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_007M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_008E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_008M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_009E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_009M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_010E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_010M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_011E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_011M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_012E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_012M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_013E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_013M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_014E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_014M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_015E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_015M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_016E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_016M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_017E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_017M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_018E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_018M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_019E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_019M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_020E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_020M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_021E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_021M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_022E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_022M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_023E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_023M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_024E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_024M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_025E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_025M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_026E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_026M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_027E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_027M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_028E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_028M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_029E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_029M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_030E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_030M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_031E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_031M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_032E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_032M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_033E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_033M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_034E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_034M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_035E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_035M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_036E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_036M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_037E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_037M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_038E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_038M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_039E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_039M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_040E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_040M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_041E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_041M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_042E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_042M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_043E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_043M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_044E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_044M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_045E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_045M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_046E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_046M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_047E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_047M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_048E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_048M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_049E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_049M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_050E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_050M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_051E" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="B08006_051M" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Field_105" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="90" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="FileName" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>2018.xlsx
+Query=`Data$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="F1" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="United States" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F3" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Alabama" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F5" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Alaska" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F7" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Arizona" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F9" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Arkansas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F11" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="California" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F13" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Colorado" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F15" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Connecticut" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F17" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Delaware" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F19" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="District of Columbia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F21" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Florida" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F23" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Georgia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F25" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Hawaii" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F27" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Idaho" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F29" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Illinois" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F31" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Indiana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F33" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Iowa" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F35" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Kansas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F37" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Kentucky" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F39" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Louisiana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F41" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Maine" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F43" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Maryland" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F45" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Massachusetts" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F47" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Michigan" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F49" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Minnesota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F51" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Mississippi" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F53" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Missouri" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F55" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Montana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F57" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Nebraska" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F59" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Nevada" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F61" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Hampshire" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F63" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Jersey" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F65" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Mexico" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F67" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="New York" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F69" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="North Carolina" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F71" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="North Dakota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F73" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Ohio" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F75" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Oklahoma" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F77" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Oregon" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F79" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Pennsylvania" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F81" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Rhode Island" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F83" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="South Carolina" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F85" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="South Dakota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F87" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Tennessee" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F89" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Texas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F91" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Utah" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F93" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Vermont" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F95" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Virginia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F97" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Washington" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F99" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="West Virginia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F101" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Wisconsin" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F103" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Wyoming" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F105" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="Puerto Rico" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="F107" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2018.xlsx|||`Data$`" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="282" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings>
+        <Position x="294" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Ranges">1-53</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="SelectRecords.yxmc" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="78" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="FileName" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>2019.xlsx
+Query=`Data$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="F1" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="United States" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F3" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Alabama" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F5" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Alaska" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F7" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Arizona" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F9" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Arkansas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F11" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="California" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F13" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Colorado" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F15" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Connecticut" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F17" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Delaware" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F19" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="District of Columbia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F21" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Florida" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F23" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Georgia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F25" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Hawaii" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F27" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Idaho" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F29" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Illinois" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F31" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Indiana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F33" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Iowa" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F35" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Kansas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F37" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Kentucky" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F39" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Louisiana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F41" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Maine" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F43" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Maryland" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F45" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Massachusetts" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F47" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Michigan" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F49" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Minnesota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F51" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Mississippi" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F53" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Missouri" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F55" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Montana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F57" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Nebraska" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F59" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Nevada" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F61" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Hampshire" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F63" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Jersey" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F65" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Mexico" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F67" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="New York" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F69" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="North Carolina" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F71" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="North Dakota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F73" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Ohio" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F75" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Oklahoma" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F77" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Oregon" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F79" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Pennsylvania" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F81" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Rhode Island" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F83" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="South Carolina" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F85" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="South Dakota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F87" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Tennessee" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F89" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Texas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F91" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Utah" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F93" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Vermont" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F95" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Virginia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F97" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Washington" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F99" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="West Virginia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F101" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Wisconsin" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F103" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Wyoming" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F105" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="Puerto Rico" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="F107" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2019.xlsx|||`Data$`" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="78" y="642" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="FileName" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>2021.xlsx
+Query=`Data$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="F1" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="United States" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F3" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Alabama" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F5" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Alaska" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F7" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Arizona" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F9" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Arkansas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F11" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="California" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F13" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Colorado" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F15" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Connecticut" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F17" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Delaware" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F19" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="District of Columbia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F21" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Florida" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F23" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Georgia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F25" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Hawaii" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F27" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Idaho" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F29" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Illinois" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F31" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Indiana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F33" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Iowa" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F35" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Kansas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F37" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Kentucky" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F39" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Louisiana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F41" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Maine" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F43" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Maryland" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F45" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Massachusetts" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F47" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Michigan" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F49" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Minnesota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F51" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Mississippi" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F53" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Missouri" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F55" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Montana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F57" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Nebraska" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F59" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Nevada" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F61" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Hampshire" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F63" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Jersey" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F65" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Mexico" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F67" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="New York" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F69" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="North Carolina" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F71" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="North Dakota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F73" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Ohio" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F75" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Oklahoma" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F77" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Oregon" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F79" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Pennsylvania" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F81" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Rhode Island" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F83" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="South Carolina" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F85" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="South Dakota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F87" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Tennessee" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F89" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Texas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F91" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Utah" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F93" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Vermont" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F95" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Virginia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F97" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Washington" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F99" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="West Virginia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F101" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Wisconsin" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F103" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Wyoming" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F105" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="Puerto Rico" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="F107" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2021.xlsx|||`Data$`" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="78" y="726" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="FileName" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>2022.xlsx
+Query=`Data$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="F1" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="United States" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F3" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Alabama" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F5" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Alaska" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F7" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Arizona" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F9" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Arkansas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F11" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="California" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F13" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Colorado" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F15" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Connecticut" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F17" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Delaware" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F19" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="District of Columbia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F21" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Florida" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F23" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Georgia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F25" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Hawaii" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F27" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Idaho" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F29" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Illinois" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F31" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Indiana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F33" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Iowa" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F35" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Kansas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F37" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Kentucky" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F39" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Louisiana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F41" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Maine" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F43" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Maryland" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F45" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Massachusetts" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F47" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Michigan" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F49" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Minnesota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F51" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Mississippi" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F53" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Missouri" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F55" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Montana" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F57" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Nebraska" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F59" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Nevada" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F61" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Hampshire" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F63" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Jersey" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F65" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="New Mexico" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F67" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="New York" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F69" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="North Carolina" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F71" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="North Dakota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F73" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Ohio" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F75" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Oklahoma" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F77" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Oregon" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F79" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Pennsylvania" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F81" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Rhode Island" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F83" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="South Carolina" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F85" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="South Dakota" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F87" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Tennessee" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F89" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Texas" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F91" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Utah" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F93" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Vermont" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F95" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Virginia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F97" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Washington" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F99" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="West Virginia" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F101" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Wisconsin" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F103" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Wyoming" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F105" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="Puerto Rico" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="F107" size="255" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\2022.xlsx|||`Data$`" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="1998" y="666" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="282" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\SALOME~1\AppData\Local\Temp\Engine_5368_916fb88eec8e4b96a06b4214fef3cebd_\Engine_24468_a0b6195af2aa482895ea954dedeea707_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="2178" y="678" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="64" MaxRecords="">C:\Users\SalomeGrasland\Desktop\Walking to Work\data.hyper</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <OutputOption>Overwrite</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>data.hyper</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="90">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="198" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="GEO_ID" />
+            <Field name="NAME" />
+            <Field name="B08006_001E" />
+            <Field name="B08006_001M" />
+            <Field name="B08006_002E" />
+            <Field name="B08006_002M" />
+            <Field name="B08006_003E" />
+            <Field name="B08006_003M" />
+            <Field name="B08006_004E" />
+            <Field name="B08006_004M" />
+            <Field name="B08006_005E" />
+            <Field name="B08006_005M" />
+            <Field name="B08006_006E" />
+            <Field name="B08006_006M" />
+            <Field name="B08006_007E" />
+            <Field name="B08006_007M" />
+            <Field name="B08006_008E" />
+            <Field name="B08006_008M" />
+            <Field name="B08006_009E" />
+            <Field name="B08006_009M" />
+            <Field name="B08006_010E" />
+            <Field name="B08006_010M" />
+            <Field name="B08006_011E" />
+            <Field name="B08006_011M" />
+            <Field name="B08006_012E" />
+            <Field name="B08006_012M" />
+            <Field name="B08006_013E" />
+            <Field name="B08006_013M" />
+            <Field name="B08006_014E" />
+            <Field name="B08006_014M" />
+            <Field name="B08006_015E" />
+            <Field name="B08006_015M" />
+            <Field name="B08006_016E" />
+            <Field name="B08006_016M" />
+            <Field name="B08006_017E" />
+            <Field name="B08006_017M" />
+            <Field name="B08006_018E" />
+            <Field name="B08006_018M" />
+            <Field name="B08006_019E" />
+            <Field name="B08006_019M" />
+            <Field name="B08006_020E" />
+            <Field name="B08006_020M" />
+            <Field name="B08006_021E" />
+            <Field name="B08006_021M" />
+            <Field name="B08006_022E" />
+            <Field name="B08006_022M" />
+            <Field name="B08006_023E" />
+            <Field name="B08006_023M" />
+            <Field name="B08006_024E" />
+            <Field name="B08006_024M" />
+            <Field name="B08006_025E" />
+            <Field name="B08006_025M" />
+            <Field name="B08006_026E" />
+            <Field name="B08006_026M" />
+            <Field name="B08006_027E" />
+            <Field name="B08006_027M" />
+            <Field name="B08006_028E" />
+            <Field name="B08006_028M" />
+            <Field name="B08006_029E" />
+            <Field name="B08006_029M" />
+            <Field name="B08006_030E" />
+            <Field name="B08006_030M" />
+            <Field name="B08006_031E" />
+            <Field name="B08006_031M" />
+            <Field name="B08006_032E" />
+            <Field name="B08006_032M" />
+            <Field name="B08006_033E" />
+            <Field name="B08006_033M" />
+            <Field name="B08006_034E" />
+            <Field name="B08006_034M" />
+            <Field name="B08006_035E" />
+            <Field name="B08006_035M" />
+            <Field name="B08006_036E" />
+            <Field name="B08006_036M" />
+            <Field name="B08006_037E" />
+            <Field name="B08006_037M" />
+            <Field name="B08006_038E" />
+            <Field name="B08006_038M" />
+            <Field name="B08006_039E" />
+            <Field name="B08006_039M" />
+            <Field name="B08006_040E" />
+            <Field name="B08006_040M" />
+            <Field name="B08006_041E" />
+            <Field name="B08006_041M" />
+            <Field name="B08006_042E" />
+            <Field name="B08006_042M" />
+            <Field name="B08006_043E" />
+            <Field name="B08006_043M" />
+            <Field name="B08006_044E" />
+            <Field name="B08006_044M" />
+            <Field name="B08006_045E" />
+            <Field name="B08006_045M" />
+            <Field name="B08006_046E" />
+            <Field name="B08006_046M" />
+            <Field name="B08006_047E" />
+            <Field name="B08006_047M" />
+            <Field name="B08006_048E" />
+            <Field name="B08006_048M" />
+            <Field name="B08006_049E" />
+            <Field name="B08006_049M" />
+            <Field name="B08006_050E" />
+            <Field name="B08006_050M" />
+            <Field name="B08006_051E" />
+            <Field name="B08006_051M" />
+            <Field name="Field_105" />
+            <Field name="*Unknown" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Geography" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Geographic Area Name" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Car, truck, or van:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Car, truck, or van:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Car, truck, or van:!!Drove alone" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Car, truck, or van:!!Drove alone" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Car, truck, or van:!!Carpooled:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Car, truck, or van:!!Carpooled:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Public transportation (excluding taxicab):" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Public transportation (excluding taxicab):" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Public transportation (excluding taxicab):!!Bus" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Public transportation (excluding taxicab):!!Bus" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Public transportation (excluding taxicab):!!Subway or elevated rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Public transportation (excluding taxicab):!!Subway or elevated rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Public transportation (excluding taxicab):!!Ferryboat" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Public transportation (excluding taxicab):!!Ferryboat" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Bicycle" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Bicycle" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Walked" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Walked" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Taxicab, motorcycle, or other means" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Taxicab, motorcycle, or other means" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Worked from home" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Worked from home" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Car, truck, or van:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Car, truck, or van:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Car, truck, or van:!!Drove alone" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Car, truck, or van:!!Drove alone" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Car, truck, or van:!!Carpooled:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Public transportation (excluding taxicab):" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Bus" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Public transportation (excluding taxicab):!!Bus" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Subway or elevated rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Public transportation (excluding taxicab):!!Subway or elevated rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Ferryboat" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Public transportation (excluding taxicab):!!Ferryboat" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Bicycle" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Bicycle" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Walked" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Walked" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Taxicab, motorcycle, or other means" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Taxicab, motorcycle, or other means" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Male:!!Worked from home" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Male:!!Worked from home" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Car, truck, or van:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Car, truck, or van:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Car, truck, or van:!!Drove alone" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Car, truck, or van:!!Drove alone" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Car, truck, or van:!!Carpooled:" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Public transportation (excluding taxicab):" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Bus" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Public transportation (excluding taxicab):!!Bus" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Subway or elevated rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Public transportation (excluding taxicab):!!Subway or elevated rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Ferryboat" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Public transportation (excluding taxicab):!!Ferryboat" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Bicycle" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Bicycle" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Walked" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Walked" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Taxicab, motorcycle, or other means" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Taxicab, motorcycle, or other means" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Estimate!!Total:!!Female:!!Worked from home" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Margin of Error!!Total:!!Female:!!Worked from home" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+            <Field name="Field_106" size="254" source="File: C:\Users\SalomeGrasland\Desktop\Walking to Work\ACSDT5Y2020.B08006-Data.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="91">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="414" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Geographic Area Name" selected="True" />
+            <SelectField field="Estimate!!Total:" selected="True" />
+            <SelectField field="Estimate!!Total:!!Car, truck, or van:" selected="True" />
+            <SelectField field="Estimate!!Total:!!Car, truck, or van:!!Drove alone" selected="True" />
+            <SelectField field="Estimate!!Total:!!Car, truck, or van:!!Carpooled:" selected="True" />
+            <SelectField field="Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" selected="True" />
+            <SelectField field="Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" selected="True" />
+            <SelectField field="Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" selected="True" />
+            <SelectField field="Estimate!!Total:!!Public transportation (excluding taxicab):" selected="True" />
+            <SelectField field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Bus" selected="True" />
+            <SelectField field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Subway or elevated rail" selected="True" />
+            <SelectField field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" selected="True" />
+            <SelectField field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" selected="True" />
+            <SelectField field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Ferryboat" selected="True" />
+            <SelectField field="Estimate!!Total:!!Bicycle" selected="True" />
+            <SelectField field="Estimate!!Total:!!Walked" selected="True" />
+            <SelectField field="Estimate!!Total:!!Taxicab, motorcycle, or other means" selected="True" />
+            <SelectField field="Estimate!!Total:!!Worked from home" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Car, truck, or van:" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Drove alone" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Bus" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Subway or elevated rail" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Ferryboat" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Bicycle" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Walked" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Taxicab, motorcycle, or other means" selected="True" />
+            <SelectField field="Estimate!!Total:!!Male:!!Worked from home" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Car, truck, or van:" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Drove alone" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Bus" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Subway or elevated rail" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Ferryboat" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Bicycle" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Walked" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Taxicab, motorcycle, or other means" selected="True" />
+            <SelectField field="Estimate!!Total:!!Female:!!Worked from home" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="92">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="534" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Geographic Area Name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Geographic Area Name" selected="False" />
+            <Field field="Estimate!!Total:" selected="True" />
+            <Field field="Estimate!!Total:!!Car, truck, or van:" selected="True" />
+            <Field field="Estimate!!Total:!!Car, truck, or van:!!Drove alone" selected="True" />
+            <Field field="Estimate!!Total:!!Car, truck, or van:!!Carpooled:" selected="True" />
+            <Field field="Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" selected="True" />
+            <Field field="Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" selected="True" />
+            <Field field="Estimate!!Total:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" selected="True" />
+            <Field field="Estimate!!Total:!!Public transportation (excluding taxicab):" selected="True" />
+            <Field field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Bus" selected="True" />
+            <Field field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Subway or elevated rail" selected="True" />
+            <Field field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" selected="True" />
+            <Field field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" selected="True" />
+            <Field field="Estimate!!Total:!!Public transportation (excluding taxicab):!!Ferryboat" selected="True" />
+            <Field field="Estimate!!Total:!!Bicycle" selected="True" />
+            <Field field="Estimate!!Total:!!Walked" selected="True" />
+            <Field field="Estimate!!Total:!!Taxicab, motorcycle, or other means" selected="True" />
+            <Field field="Estimate!!Total:!!Worked from home" selected="True" />
+            <Field field="Estimate!!Total:!!Male:" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Car, truck, or van:" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Drove alone" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Bus" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Subway or elevated rail" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Public transportation (excluding taxicab):!!Ferryboat" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Bicycle" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Walked" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Taxicab, motorcycle, or other means" selected="True" />
+            <Field field="Estimate!!Total:!!Male:!!Worked from home" selected="True" />
+            <Field field="Estimate!!Total:!!Female:" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Car, truck, or van:" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Drove alone" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 2-person carpool" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 3-person carpool" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Car, truck, or van:!!Carpooled:!!In 4-or-more-person carpool" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Bus" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Subway or elevated rail" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Long-distance train or commuter rail" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Light rail, streetcar or trolley (carro público in Puerto Rico)" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Public transportation (excluding taxicab):!!Ferryboat" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Bicycle" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Walked" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Taxicab, motorcycle, or other means" selected="True" />
+            <Field field="Estimate!!Total:!!Female:!!Worked from home" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="94">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="666" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Name" />
+          </GroupFields>
+          <HeaderField field="Geographic Area Name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="Concat" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name" size="134" source="CrossTab:Group:Concat:" type="String" />
+            <Field name="Alabama" size="2048" source="CrossTab:Header:Geographic Area Name:Alabama:Concat:" type="V_WString" />
+            <Field name="Alaska" size="2048" source="CrossTab:Header:Geographic Area Name:Alaska:Concat:" type="V_WString" />
+            <Field name="Arizona" size="2048" source="CrossTab:Header:Geographic Area Name:Arizona:Concat:" type="V_WString" />
+            <Field name="Arkansas" size="2048" source="CrossTab:Header:Geographic Area Name:Arkansas:Concat:" type="V_WString" />
+            <Field name="California" size="2048" source="CrossTab:Header:Geographic Area Name:California:Concat:" type="V_WString" />
+            <Field name="Colorado" size="2048" source="CrossTab:Header:Geographic Area Name:Colorado:Concat:" type="V_WString" />
+            <Field name="Connecticut" size="2048" source="CrossTab:Header:Geographic Area Name:Connecticut:Concat:" type="V_WString" />
+            <Field name="Delaware" size="2048" source="CrossTab:Header:Geographic Area Name:Delaware:Concat:" type="V_WString" />
+            <Field name="District_of_Columbia" size="2048" source="CrossTab:Header:Geographic Area Name:District of Columbia:Concat:" type="V_WString" />
+            <Field name="Florida" size="2048" source="CrossTab:Header:Geographic Area Name:Florida:Concat:" type="V_WString" />
+            <Field name="Georgia" size="2048" source="CrossTab:Header:Geographic Area Name:Georgia:Concat:" type="V_WString" />
+            <Field name="Hawaii" size="2048" source="CrossTab:Header:Geographic Area Name:Hawaii:Concat:" type="V_WString" />
+            <Field name="Idaho" size="2048" source="CrossTab:Header:Geographic Area Name:Idaho:Concat:" type="V_WString" />
+            <Field name="Illinois" size="2048" source="CrossTab:Header:Geographic Area Name:Illinois:Concat:" type="V_WString" />
+            <Field name="Indiana" size="2048" source="CrossTab:Header:Geographic Area Name:Indiana:Concat:" type="V_WString" />
+            <Field name="Iowa" size="2048" source="CrossTab:Header:Geographic Area Name:Iowa:Concat:" type="V_WString" />
+            <Field name="Kansas" size="2048" source="CrossTab:Header:Geographic Area Name:Kansas:Concat:" type="V_WString" />
+            <Field name="Kentucky" size="2048" source="CrossTab:Header:Geographic Area Name:Kentucky:Concat:" type="V_WString" />
+            <Field name="Louisiana" size="2048" source="CrossTab:Header:Geographic Area Name:Louisiana:Concat:" type="V_WString" />
+            <Field name="Maine" size="2048" source="CrossTab:Header:Geographic Area Name:Maine:Concat:" type="V_WString" />
+            <Field name="Maryland" size="2048" source="CrossTab:Header:Geographic Area Name:Maryland:Concat:" type="V_WString" />
+            <Field name="Massachusetts" size="2048" source="CrossTab:Header:Geographic Area Name:Massachusetts:Concat:" type="V_WString" />
+            <Field name="Michigan" size="2048" source="CrossTab:Header:Geographic Area Name:Michigan:Concat:" type="V_WString" />
+            <Field name="Minnesota" size="2048" source="CrossTab:Header:Geographic Area Name:Minnesota:Concat:" type="V_WString" />
+            <Field name="Mississippi" size="2048" source="CrossTab:Header:Geographic Area Name:Mississippi:Concat:" type="V_WString" />
+            <Field name="Missouri" size="2048" source="CrossTab:Header:Geographic Area Name:Missouri:Concat:" type="V_WString" />
+            <Field name="Montana" size="2048" source="CrossTab:Header:Geographic Area Name:Montana:Concat:" type="V_WString" />
+            <Field name="Nebraska" size="2048" source="CrossTab:Header:Geographic Area Name:Nebraska:Concat:" type="V_WString" />
+            <Field name="Nevada" size="2048" source="CrossTab:Header:Geographic Area Name:Nevada:Concat:" type="V_WString" />
+            <Field name="New_Hampshire" size="2048" source="CrossTab:Header:Geographic Area Name:New Hampshire:Concat:" type="V_WString" />
+            <Field name="New_Jersey" size="2048" source="CrossTab:Header:Geographic Area Name:New Jersey:Concat:" type="V_WString" />
+            <Field name="New_Mexico" size="2048" source="CrossTab:Header:Geographic Area Name:New Mexico:Concat:" type="V_WString" />
+            <Field name="New_York" size="2048" source="CrossTab:Header:Geographic Area Name:New York:Concat:" type="V_WString" />
+            <Field name="North_Carolina" size="2048" source="CrossTab:Header:Geographic Area Name:North Carolina:Concat:" type="V_WString" />
+            <Field name="North_Dakota" size="2048" source="CrossTab:Header:Geographic Area Name:North Dakota:Concat:" type="V_WString" />
+            <Field name="Ohio" size="2048" source="CrossTab:Header:Geographic Area Name:Ohio:Concat:" type="V_WString" />
+            <Field name="Oklahoma" size="2048" source="CrossTab:Header:Geographic Area Name:Oklahoma:Concat:" type="V_WString" />
+            <Field name="Oregon" size="2048" source="CrossTab:Header:Geographic Area Name:Oregon:Concat:" type="V_WString" />
+            <Field name="Pennsylvania" size="2048" source="CrossTab:Header:Geographic Area Name:Pennsylvania:Concat:" type="V_WString" />
+            <Field name="Puerto_Rico" size="2048" source="CrossTab:Header:Geographic Area Name:Puerto Rico:Concat:" type="V_WString" />
+            <Field name="Rhode_Island" size="2048" source="CrossTab:Header:Geographic Area Name:Rhode Island:Concat:" type="V_WString" />
+            <Field name="South_Carolina" size="2048" source="CrossTab:Header:Geographic Area Name:South Carolina:Concat:" type="V_WString" />
+            <Field name="South_Dakota" size="2048" source="CrossTab:Header:Geographic Area Name:South Dakota:Concat:" type="V_WString" />
+            <Field name="Tennessee" size="2048" source="CrossTab:Header:Geographic Area Name:Tennessee:Concat:" type="V_WString" />
+            <Field name="Texas" size="2048" source="CrossTab:Header:Geographic Area Name:Texas:Concat:" type="V_WString" />
+            <Field name="United_States" size="2048" source="CrossTab:Header:Geographic Area Name:United States:Concat:" type="V_WString" />
+            <Field name="Utah" size="2048" source="CrossTab:Header:Geographic Area Name:Utah:Concat:" type="V_WString" />
+            <Field name="Vermont" size="2048" source="CrossTab:Header:Geographic Area Name:Vermont:Concat:" type="V_WString" />
+            <Field name="Virginia" size="2048" source="CrossTab:Header:Geographic Area Name:Virginia:Concat:" type="V_WString" />
+            <Field name="Washington" size="2048" source="CrossTab:Header:Geographic Area Name:Washington:Concat:" type="V_WString" />
+            <Field name="West_Virginia" size="2048" source="CrossTab:Header:Geographic Area Name:West Virginia:Concat:" type="V_WString" />
+            <Field name="Wisconsin" size="2048" source="CrossTab:Header:Geographic Area Name:Wisconsin:Concat:" type="V_WString" />
+            <Field name="Wyoming" size="2048" source="CrossTab:Header:Geographic Area Name:Wyoming:Concat:" type="V_WString" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Name" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="97">
+      <GuiSettings>
+        <Position x="390" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Ranges">1-18</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="SelectRecords.yxmc" />
+    </Node>
+    <Node ToolID="98">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="522" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[RecordID] = 2
+OR
+[RecordID] = 16</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[RecordID] = 2
+OR
+[RecordID] = 16</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="99">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="654" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="F1" selected="True" />
+            <SelectField field="United States" selected="True" />
+            <SelectField field="Alabama" selected="True" />
+            <SelectField field="Alaska" selected="True" />
+            <SelectField field="Arizona" selected="True" />
+            <SelectField field="Arkansas" selected="True" />
+            <SelectField field="Colorado" selected="True" />
+            <SelectField field="Connecticut" selected="True" />
+            <SelectField field="Delaware" selected="True" />
+            <SelectField field="Georgia" selected="True" />
+            <SelectField field="Hawaii" selected="True" />
+            <SelectField field="Idaho" selected="True" />
+            <SelectField field="Illinois" selected="True" />
+            <SelectField field="Indiana" selected="True" />
+            <SelectField field="Iowa" selected="True" />
+            <SelectField field="Kansas" selected="True" />
+            <SelectField field="Kentucky" selected="True" />
+            <SelectField field="Louisiana" selected="True" />
+            <SelectField field="Maine" selected="True" />
+            <SelectField field="Maryland" selected="True" />
+            <SelectField field="Massachusetts" selected="True" />
+            <SelectField field="Michigan" selected="True" />
+            <SelectField field="Minnesota" selected="True" />
+            <SelectField field="Mississippi" selected="True" />
+            <SelectField field="Missouri" selected="True" />
+            <SelectField field="Montana" selected="True" />
+            <SelectField field="Nebraska" selected="True" />
+            <SelectField field="Nevada" selected="True" />
+            <SelectField field="New Hampshire" selected="True" />
+            <SelectField field="New Jersey" selected="True" />
+            <SelectField field="New Mexico" selected="True" />
+            <SelectField field="New York" selected="True" />
+            <SelectField field="North Carolina" selected="True" />
+            <SelectField field="North Dakota" selected="True" />
+            <SelectField field="Ohio" selected="True" />
+            <SelectField field="Oklahoma" selected="True" />
+            <SelectField field="Oregon" selected="True" />
+            <SelectField field="Pennsylvania" selected="True" />
+            <SelectField field="Rhode Island" selected="True" />
+            <SelectField field="South Carolina" selected="True" />
+            <SelectField field="South Dakota" selected="True" />
+            <SelectField field="Tennessee" selected="True" />
+            <SelectField field="Texas" selected="True" />
+            <SelectField field="Utah" selected="True" />
+            <SelectField field="Vermont" selected="True" />
+            <SelectField field="Virginia" selected="True" />
+            <SelectField field="Washington" selected="True" />
+            <SelectField field="West Virginia" selected="True" />
+            <SelectField field="Wisconsin" selected="True" />
+            <SelectField field="Wyoming" selected="True" />
+            <SelectField field="Puerto Rico" selected="True" />
+            <SelectField field="FileName" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="100">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="774" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="F1" />
+            <Field field="FileName" />
+          </KeyFields>
+          <DataFields>
+            <Field field="F1" selected="False" />
+            <Field field="United States" selected="True" />
+            <Field field="Alabama" selected="True" />
+            <Field field="Alaska" selected="True" />
+            <Field field="Arizona" selected="True" />
+            <Field field="Arkansas" selected="True" />
+            <Field field="Colorado" selected="True" />
+            <Field field="Connecticut" selected="True" />
+            <Field field="Delaware" selected="True" />
+            <Field field="Georgia" selected="True" />
+            <Field field="Hawaii" selected="True" />
+            <Field field="Idaho" selected="True" />
+            <Field field="Illinois" selected="True" />
+            <Field field="Indiana" selected="True" />
+            <Field field="Iowa" selected="True" />
+            <Field field="Kansas" selected="True" />
+            <Field field="Kentucky" selected="True" />
+            <Field field="Louisiana" selected="True" />
+            <Field field="Maine" selected="True" />
+            <Field field="Maryland" selected="True" />
+            <Field field="Massachusetts" selected="True" />
+            <Field field="Michigan" selected="True" />
+            <Field field="Minnesota" selected="True" />
+            <Field field="Mississippi" selected="True" />
+            <Field field="Missouri" selected="True" />
+            <Field field="Montana" selected="True" />
+            <Field field="Nebraska" selected="True" />
+            <Field field="Nevada" selected="True" />
+            <Field field="New Hampshire" selected="True" />
+            <Field field="New Jersey" selected="True" />
+            <Field field="New Mexico" selected="True" />
+            <Field field="New York" selected="True" />
+            <Field field="North Carolina" selected="True" />
+            <Field field="North Dakota" selected="True" />
+            <Field field="Ohio" selected="True" />
+            <Field field="Oklahoma" selected="True" />
+            <Field field="Oregon" selected="True" />
+            <Field field="Pennsylvania" selected="True" />
+            <Field field="Rhode Island" selected="True" />
+            <Field field="South Carolina" selected="True" />
+            <Field field="South Dakota" selected="True" />
+            <Field field="Tennessee" selected="True" />
+            <Field field="Texas" selected="True" />
+            <Field field="Utah" selected="True" />
+            <Field field="Vermont" selected="True" />
+            <Field field="Virginia" selected="True" />
+            <Field field="Washington" selected="True" />
+            <Field field="West Virginia" selected="True" />
+            <Field field="Wisconsin" selected="True" />
+            <Field field="Wyoming" selected="True" />
+            <Field field="Puerto Rico" selected="True" />
+            <Field field="FileName" selected="False" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="101">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="894" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>F1</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-04-01 17:37:29</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2024-04-01 17:37:29</StartDate>
+              <EndDate>2024-04-01 17:37:29</EndDate>
+              <Operand>Total:</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[F1] = "Total:"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="102">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1026" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Name" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Name" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_F1" selected="False" input="Left_" />
+                <SelectField field="Left_Value" selected="True" rename="Total" input="Left_" />
+                <SelectField field="Right_F1" selected="False" rename="Right_F1" input="Right_" />
+                <SelectField field="Right_Name" selected="False" rename="Right_Name" input="Right_" />
+                <SelectField field="Right_Value" selected="True" rename="Walked" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="103">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1314" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Walked]/[Total]" field="% Walked" size="8.6" type="FixedDecimal" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[% Walked = [Walked]/[Total]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="104">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1218" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Total" selected="True" type="Double" size="8" />
+            <SelectField field="Walked" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="105">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1122" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Replace([Total], ',', '')" field="Total" size="255" type="V_String" />
+            <FormulaField expression="Replace([Walked], ',', '')" field="Walked" size="255" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Total = Replace([Total], ',', '')
+Walked = Replace([Walked], ',', '')
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="106">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="774" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[Name] = "Estimate!!Total:"
+OR 
+[Name] = "Estimate!!Total:!!Walked"</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Name] = "Estimate!!Total:"
+OR 
+[Name] = "Estimate!!Total:!!Walked"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="107">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="894" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [Name] = 'Estimate!!Total:' THEN 'Total:'&#xA;ELSE [Name]&#xA;ENDIF" field="Name" size="134" type="String" />
+            <FormulaField expression="IF [Alabama] = '23265' THEN &quot;Walked&quot;&#xA;ELSE [Name]&#xA;ENDIF" field="Name" size="134" type="String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Name = IF [Name] = 'Estimate!!Total:' THEN 'Total:'
+ELSE [Name]
+ENDIF
+Name = IF ...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="108">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1002" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Name" selected="True" rename="F1" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="109">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="1122" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="F1" />
+          </KeyFields>
+          <DataFields>
+            <Field field="F1" selected="False" />
+            <Field field="United States" selected="True" />
+            <Field field="Alabama" selected="True" />
+            <Field field="Alaska" selected="True" />
+            <Field field="Arizona" selected="True" />
+            <Field field="Arkansas" selected="True" />
+            <Field field="Colorado" selected="True" />
+            <Field field="Connecticut" selected="True" />
+            <Field field="Delaware" selected="True" />
+            <Field field="Georgia" selected="True" />
+            <Field field="Hawaii" selected="True" />
+            <Field field="Idaho" selected="True" />
+            <Field field="Illinois" selected="True" />
+            <Field field="Indiana" selected="True" />
+            <Field field="Iowa" selected="True" />
+            <Field field="Kansas" selected="True" />
+            <Field field="Kentucky" selected="True" />
+            <Field field="Louisiana" selected="True" />
+            <Field field="Maine" selected="True" />
+            <Field field="Maryland" selected="True" />
+            <Field field="Massachusetts" selected="True" />
+            <Field field="Michigan" selected="True" />
+            <Field field="Minnesota" selected="True" />
+            <Field field="Mississippi" selected="True" />
+            <Field field="Missouri" selected="True" />
+            <Field field="Montana" selected="True" />
+            <Field field="Nebraska" selected="True" />
+            <Field field="Nevada" selected="True" />
+            <Field field="New Hampshire" selected="True" />
+            <Field field="New Jersey" selected="True" />
+            <Field field="New Mexico" selected="True" />
+            <Field field="New York" selected="True" />
+            <Field field="North Carolina" selected="True" />
+            <Field field="North Dakota" selected="True" />
+            <Field field="Ohio" selected="True" />
+            <Field field="Oklahoma" selected="True" />
+            <Field field="Oregon" selected="True" />
+            <Field field="Pennsylvania" selected="True" />
+            <Field field="Rhode Island" selected="True" />
+            <Field field="South Carolina" selected="True" />
+            <Field field="South Dakota" selected="True" />
+            <Field field="Tennessee" selected="True" />
+            <Field field="Texas" selected="True" />
+            <Field field="Utah" selected="True" />
+            <Field field="Vermont" selected="True" />
+            <Field field="Virginia" selected="True" />
+            <Field field="Washington" selected="True" />
+            <Field field="West Virginia" selected="True" />
+            <Field field="Wisconsin" selected="True" />
+            <Field field="Wyoming" selected="True" />
+            <Field field="Puerto Rico" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="110">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1242" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>F1</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-04-01 17:37:29</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2024-04-01 17:37:29</StartDate>
+              <EndDate>2024-04-01 17:37:29</EndDate>
+              <Operand>Total:</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[F1] = "Total:"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="111">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1374" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Name" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Name" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_F1" selected="False" input="Left_" />
+                <SelectField field="Left_Value" selected="True" rename="Total" input="Left_" />
+                <SelectField field="Right_F1" selected="False" rename="Right_F1" input="Right_" />
+                <SelectField field="Right_Name" selected="False" rename="Right_Name" input="Right_" />
+                <SelectField field="Right_Value" selected="True" rename="Walked" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="112">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1662" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Walked]/[Total]" field="% Walked" size="8.6" type="FixedDecimal" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[% Walked = [Walked]/[Total]
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="113">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1566" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Total" selected="True" type="Double" size="8" />
+            <SelectField field="Walked" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="114">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1470" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Replace([Total], ',', '')" field="Total" size="2048" type="V_WString" />
+            <FormulaField expression="Replace([Walked], ',', '')" field="Walked" size="2048" type="V_WString" />
+            <FormulaField expression="2020" field="FileName" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Total = Replace([Total], ',', '')
+Walked = Replace([Walked], ',', '')
+FileName =...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="115">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1434" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Right_FileName" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="116">
+      <GuiSettings>
+        <Position x="186" y="534" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Input.Input8"><![CDATA[F1=F1
+United States=United States
+F3=F3
+Alabama=Alabama
+F5=F5
+Alaska=Alaska
+F7=F7
+Arizona=Arizona
+F9=F9
+Arkansas=Arkansas
+F11=F11
+California=California
+F13=F13
+Colorado=Colorado
+F15=F15
+Connecticut=Connecticut
+F17=F17
+Delaware=Delaware
+F19=F19
+District of Columbia=District of Columbia
+F21=F21
+Florida=Florida
+F23=F23
+Georgia=Georgia
+F25=F25
+Hawaii=Hawaii
+F27=F27
+Idaho=Idaho
+F29=F29
+Illinois=Illinois
+F31=F31
+Indiana=Indiana
+F33=F33
+Iowa=Iowa
+F35=F35
+Kansas=Kansas
+F37=F37
+Kentucky=Kentucky
+F39=F39
+Louisiana=Louisiana
+F41=F41
+Maine=Maine
+F43=F43
+Maryland=Maryland
+F45=F45
+Massachusetts=Massachusetts
+F47=F47
+Michigan=Michigan
+F49=F49
+Minnesota=Minnesota
+F51=F51
+Mississippi=Mississippi
+F53=F53
+Missouri=Missouri
+F55=F55
+Montana=Montana
+F57=F57
+Nebraska=Nebraska
+F59=F59
+Nevada=Nevada
+F61=F61
+New Hampshire=New Hampshire
+F63=F63
+New Jersey=New Jersey
+F65=F65
+New Mexico=New Mexico
+F67=F67
+New York=New York
+F69=F69
+North Carolina=North Carolina
+F71=F71
+North Dakota=North Dakota
+F73=F73
+Ohio=Ohio
+F75=F75
+Oklahoma=Oklahoma
+F77=F77
+Oregon=Oregon
+F79=F79
+Pennsylvania=Pennsylvania
+F81=F81
+Rhode Island=Rhode Island
+F83=F83
+South Carolina=South Carolina
+F85=F85
+South Dakota=South Dakota
+F87=F87
+Tennessee=Tennessee
+F89=F89
+Texas=Texas
+F91=F91
+Utah=Utah
+F93=F93
+Vermont=Vermont
+F95=F95
+Virginia=Virginia
+F97=F97
+Washington=Washington
+F99=F99
+West Virginia=West Virginia
+F101=F101
+Wisconsin=Wisconsin
+F103=F103
+Wyoming=Wyoming
+F105=F105
+Puerto Rico=Puerto Rico
+F107=F107
+FileName=FileName
+]]></Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Walking (21)</Name>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Walking.yxmc" />
+    </Node>
+    <Node ToolID="117">
+      <GuiSettings>
+        <Position x="174" y="654" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Input.Input8"><![CDATA[F1=F1
+United States=United States
+F3=F3
+Alabama=Alabama
+F5=F5
+Alaska=Alaska
+F7=F7
+Arizona=Arizona
+F9=F9
+Arkansas=Arkansas
+F11=F11
+California=California
+F13=F13
+Colorado=Colorado
+F15=F15
+Connecticut=Connecticut
+F17=F17
+Delaware=Delaware
+F19=F19
+District of Columbia=District of Columbia
+F21=F21
+Florida=Florida
+F23=F23
+Georgia=Georgia
+F25=F25
+Hawaii=Hawaii
+F27=F27
+Idaho=Idaho
+F29=F29
+Illinois=Illinois
+F31=F31
+Indiana=Indiana
+F33=F33
+Iowa=Iowa
+F35=F35
+Kansas=Kansas
+F37=F37
+Kentucky=Kentucky
+F39=F39
+Louisiana=Louisiana
+F41=F41
+Maine=Maine
+F43=F43
+Maryland=Maryland
+F45=F45
+Massachusetts=Massachusetts
+F47=F47
+Michigan=Michigan
+F49=F49
+Minnesota=Minnesota
+F51=F51
+Mississippi=Mississippi
+F53=F53
+Missouri=Missouri
+F55=F55
+Montana=Montana
+F57=F57
+Nebraska=Nebraska
+F59=F59
+Nevada=Nevada
+F61=F61
+New Hampshire=New Hampshire
+F63=F63
+New Jersey=New Jersey
+F65=F65
+New Mexico=New Mexico
+F67=F67
+New York=New York
+F69=F69
+North Carolina=North Carolina
+F71=F71
+North Dakota=North Dakota
+F73=F73
+Ohio=Ohio
+F75=F75
+Oklahoma=Oklahoma
+F77=F77
+Oregon=Oregon
+F79=F79
+Pennsylvania=Pennsylvania
+F81=F81
+Rhode Island=Rhode Island
+F83=F83
+South Carolina=South Carolina
+F85=F85
+South Dakota=South Dakota
+F87=F87
+Tennessee=Tennessee
+F89=F89
+Texas=Texas
+F91=F91
+Utah=Utah
+F93=F93
+Vermont=Vermont
+F95=F95
+Virginia=Virginia
+F97=F97
+Washington=Washington
+F99=F99
+West Virginia=West Virginia
+F101=F101
+Wisconsin=Wisconsin
+F103=F103
+Wyoming=Wyoming
+F105=F105
+Puerto Rico=Puerto Rico
+F107=F107
+FileName=FileName
+]]></Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Walking (23)</Name>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Walking.yxmc" />
+    </Node>
+    <Node ToolID="118">
+      <GuiSettings>
+        <Position x="198" y="738" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Input.Input8"><![CDATA[F1=F1
+United States=United States
+F3=F3
+Alabama=Alabama
+F5=F5
+Alaska=Alaska
+F7=F7
+Arizona=Arizona
+F9=F9
+Arkansas=Arkansas
+F11=F11
+California=California
+F13=F13
+Colorado=Colorado
+F15=F15
+Connecticut=Connecticut
+F17=F17
+Delaware=Delaware
+F19=F19
+District of Columbia=District of Columbia
+F21=F21
+Florida=Florida
+F23=F23
+Georgia=Georgia
+F25=F25
+Hawaii=Hawaii
+F27=F27
+Idaho=Idaho
+F29=F29
+Illinois=Illinois
+F31=F31
+Indiana=Indiana
+F33=F33
+Iowa=Iowa
+F35=F35
+Kansas=Kansas
+F37=F37
+Kentucky=Kentucky
+F39=F39
+Louisiana=Louisiana
+F41=F41
+Maine=Maine
+F43=F43
+Maryland=Maryland
+F45=F45
+Massachusetts=Massachusetts
+F47=F47
+Michigan=Michigan
+F49=F49
+Minnesota=Minnesota
+F51=F51
+Mississippi=Mississippi
+F53=F53
+Missouri=Missouri
+F55=F55
+Montana=Montana
+F57=F57
+Nebraska=Nebraska
+F59=F59
+Nevada=Nevada
+F61=F61
+New Hampshire=New Hampshire
+F63=F63
+New Jersey=New Jersey
+F65=F65
+New Mexico=New Mexico
+F67=F67
+New York=New York
+F69=F69
+North Carolina=North Carolina
+F71=F71
+North Dakota=North Dakota
+F73=F73
+Ohio=Ohio
+F75=F75
+Oklahoma=Oklahoma
+F77=F77
+Oregon=Oregon
+F79=F79
+Pennsylvania=Pennsylvania
+F81=F81
+Rhode Island=Rhode Island
+F83=F83
+South Carolina=South Carolina
+F85=F85
+South Dakota=South Dakota
+F87=F87
+Tennessee=Tennessee
+F89=F89
+Texas=Texas
+F91=F91
+Utah=Utah
+F93=F93
+Vermont=Vermont
+F95=F95
+Virginia=Virginia
+F97=F97
+Washington=Washington
+F99=F99
+West Virginia=West Virginia
+F101=F101
+Wisconsin=Wisconsin
+F103=F103
+Wyoming=Wyoming
+F105=F105
+Puerto Rico=Puerto Rico
+F107=F107
+FileName=FileName
+]]></Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Walking (24)</Name>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Walking.yxmc" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="90" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="97" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="91" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="116" Connection="Input8" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="117" Connection="Input8" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="118" Connection="Input8" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="90" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="91" Connection="Output" />
+      <Destination ToolID="92" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="92" Connection="Output" />
+      <Destination ToolID="94" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="94" Connection="Output" />
+      <Destination ToolID="106" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="97" Connection="Output" />
+      <Destination ToolID="98" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="98" Connection="True" />
+      <Destination ToolID="99" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="99" Connection="Output" />
+      <Destination ToolID="100" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="100" Connection="Output" />
+      <Destination ToolID="101" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="101" Connection="True" />
+      <Destination ToolID="102" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="101" Connection="False" />
+      <Destination ToolID="102" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="102" Connection="Join" />
+      <Destination ToolID="105" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="103" Connection="Output" />
+      <Destination ToolID="115" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="104" Connection="Output" />
+      <Destination ToolID="103" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="105" Connection="Output" />
+      <Destination ToolID="104" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="106" Connection="True" />
+      <Destination ToolID="107" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="107" Connection="Output" />
+      <Destination ToolID="108" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="108" Connection="Output" />
+      <Destination ToolID="109" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="109" Connection="Output" />
+      <Destination ToolID="110" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="110" Connection="True" />
+      <Destination ToolID="111" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="110" Connection="False" />
+      <Destination ToolID="111" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="111" Connection="Join" />
+      <Destination ToolID="114" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="112" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="115" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="116" Connection="Output9" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="117" Connection="Output9" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection name="#5">
+      <Origin ToolID="118" Connection="Output9" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="113" Connection="Output" />
+      <Destination ToolID="112" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="114" Connection="Output" />
+      <Destination ToolID="113" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="116" Connection="Output9" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>New Workflow1</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="304c9b71-88f8-4657-a32c-4b4f35170350" />
+      <Telemetry>
+        <PreviousWorkflowId value="7026893d-357c-45a7-b37d-ed179ed27408" />
+        <OriginWorkflowId value="7026893d-357c-45a7-b37d-ed179ed27408" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
